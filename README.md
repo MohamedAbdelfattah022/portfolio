@@ -41,12 +41,12 @@ This project is a personal portfolio website to display projects, skills, experi
 
 The following tools were used in this project:
 
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org/)
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
+- [React](https://reactjs.org/)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Requirements ##
 
@@ -73,6 +73,8 @@ npm start
 cd ../server
 npm start
 ```
+
+The front end is cloned from [Adrian Hajdin - JS Mastery](https://github.com/adrianhajdin/project_professional_portfolio/tree/master) thanks to him
 
 Made with ❤️ by 
 <a href="https://github.com/MohamedAbdelfattah022" target="_blank">Mohamed Abdelfattah</a>
